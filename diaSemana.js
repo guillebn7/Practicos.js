@@ -58,5 +58,7 @@ function diaSemana(nro) {
 			return "ERROR, NO SE PERMITEN DECIMALES NI OTROS CARACTERES QUE NO SEA UN NUMERO ENTRE 1 Y 7" 	
 	}
 
+console.log("LINEA AGREGADA PARA PROBAR GIT");
 
-console.log(calcularDia(4.7));
+
+console.log(calcularDia(4));
